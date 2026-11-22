@@ -1,0 +1,11 @@
+Jordan Lee
+jordan.lee@example.com
+
+Skills
+Python, SQL, pandas, Git
+
+Experience
+Data Intern | Example Labs | 2022-2024
+
+Education
+Bachelor of Science in Computer Science, Example University, 2022
